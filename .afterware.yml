@@ -1,0 +1,18 @@
+schema_version: 1
+slug: disable-google-fonts
+name: Disable Google Fonts — Afterware
+upstream:
+  source: https://wordpress.org/plugins/disable-google-fonts/
+  last_version: "2.0"
+  branch: upstream
+main_file: disable-google-fonts.php
+requires:
+  php: "8.3.28"
+  wp: "6.8.3"
+build:
+  include: []
+  exclude: [tests]
+  js: none
+tests:
+  php: ["8.3.28", "8.3.33", "8.4.27"]
+  wp: ["6.8.3", "7.1", "7.1.4"]

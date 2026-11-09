@@ -10,12 +10,15 @@
  */
 
 /**
- * Plugin Name: Disable Google Fonts
+ * Plugin Name: Disable Google Fonts — Afterware
  * Plugin URI:  https://milandinic.com/wordpress/plugins/disable-google-fonts/
+ * Update URI: https://updates.afterware.io/disable-google-fonts
  * Description: Disable enqueuing of fonts from Google used by WordPress core, default themes, Gutenberg, and many more.
  * Author:      Milan Dinić
  * Author URI:  https://milandinic.com/
- * Version:     2.0
+ * Version:     2.0.0.1
+ * Requires PHP: 8.3.28
+ * Requires at least: 6.8.3
  * Text Domain: disable-google-fonts
  * Domain Path: /languages/
  * License:     GPL

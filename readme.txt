@@ -2,10 +2,10 @@
 Contributors: dimadin
 Donate link: https://milandinic.com/donate/
 Tags: Open Sans, Google Fonts, Google Web Fonts
-Requires at least: 3.5
-Tested up to: 5.1
-Requires PHP: 5.2.4
-Stable tag: 2.0
+Requires at least: 6.8.3
+Tested up to: 7.1.4
+Requires PHP: 8.3.28
+Stable tag: 2.0.0.1
 
 Disable enqueuing of fonts from Google used by WordPress core, default themes, Gutenberg, and many more.
 
